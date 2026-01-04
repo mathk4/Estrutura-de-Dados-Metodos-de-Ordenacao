@@ -15,8 +15,11 @@ A aplicação realiza a ordenação desses objetos com base no seu ID, comparand
 Algoritmos Implementados
 
 • Bubble Sort;
+
 • Selection Sort;
+
 • Merge Sort;
+
 • Quick Sort.
 
 ------ 
@@ -30,7 +33,9 @@ Para garantir uma análise robusta, o programa executa e mostra o tempo de execu
 Cenários de Dados:
 
 • Aleatório: Dados lidos diretamente do CSV;
+
 • Ordenado: Teste de performance com o vetor já organizado;
+
 • Reverso: Teste de performance com o vetor inversamente ordenado.
 
 Apos a aplicação dos algorítimos, os resultados foram transcritos para tabelas para melhor visualização.
@@ -40,5 +45,7 @@ Apos a aplicação dos algorítimos, os resultados foram transcritos para tabela
 ## Importante ao Executar
 
 • Ter o java instalado;
+
 • Fazer o Dowload do Dataset;
+
 • Alterar o caminho para o Dataset no arquivo main.
