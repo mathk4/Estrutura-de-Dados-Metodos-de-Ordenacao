@@ -34,7 +34,9 @@ Cenários de Dados:
 • Reverso: Teste de performance com o vetor inversamente ordenado.
 
 Apos a aplicação dos algorítimos, os resultados foram transcritos para tabelas para melhor visualização.
+
 ------
+
 ## Importante ao Executar
 
 • Ter o java instalado
