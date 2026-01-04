@@ -4,7 +4,8 @@ Feito por Matheus Rodrigues Silva e Larissa R. Gabriel
 
 Este projeto foi desenvolvido como trabalho final da disciplina de Estrutura de Dados durante o 3º semestre do curso de Engenharia de Computação.
 O objetivo principal é analisar o desempenho de diferentes algoritmos de ordenação aplicados a um conjunto de dados real 
-------------
+
+------
 
 ## Projeto
 
@@ -33,7 +34,7 @@ Cenários de Dados:
 • Reverso: Teste de performance com o vetor inversamente ordenado.
 
 Apos a aplicação dos algorítimos, os resultados foram transcritos para tabelas para melhor visualização.
------
+------
 ## Importante ao Executar
 
 • Ter o java instalado
